@@ -5,8 +5,8 @@ This repository contains the solution for the **homework assignment** for the _D
 ---
 
 ## **Repository Structure**
-/Content - API_Documentation.md: Details of the GitHub API endpoints used. 
-         - Troubleshooting_Guide.md: Solutions for common issues during API interaction. 
+/Content - 1) API_Documentation.md: Details of the GitHub API endpoints used. 
+         - 2) Troubleshooting_Guide.md: Solutions for common issues during API interaction. 
 
 /Postman_Collection - Github_API_Test.postman_collection.json: Postman collection containing API requests.
 
