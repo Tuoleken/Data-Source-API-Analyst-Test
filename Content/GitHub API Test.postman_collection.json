@@ -267,7 +267,17 @@
 					"name": "request_repos",
 					"originalRequest": {
 						"method": "GET",
-						"header": []
+						"header": [],
+						"url": {
+							"raw": "{{url}}users/{{username}}/repos",
+							"host": [
+								"{{url}}users"
+							],
+							"path": [
+								"{{username}}",
+								"repos"
+							]
+						}
 					},
 					"_postman_previewlanguage": null,
 					"header": null,
