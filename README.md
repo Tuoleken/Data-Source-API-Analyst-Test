@@ -5,11 +5,16 @@ This repository contains the solution for the **homework assignment** for the _D
 ---
 
 ## **Repository Structure**
-/Content - 1) API_Documentation.md: Details of the GitHub API endpoints used. 
-         - 2) Troubleshooting_Guide.md: Solutions for common issues during API interaction. 
+/Content 
+- 1) API_Documentation.md: Details of the GitHub API endpoints used. 
 
-/Postman_Collection - Github_API_Test.postman_collection.json: Postman collection containing API requests.
+- 2) Troubleshooting_Guide.md: Solutions for common issues during API interaction. 
 
+- 3) Github_API_Test.postman_collection.json: Postman collection containing API requests.
+
+- 4) /Responses: Contains responses in three json files and detail API setup
+
+README.md
 
 ---
 
@@ -95,7 +100,7 @@ _Common issues and their solutions are documented in `/Content/Troubleshooting_G
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/Data-Source-API-Analyst-Test.git
+   git clone https://github.com/Tuoleken/Data-Source-API-Analyst-Test.git
 2. Import the Postman collection file from /Postman_Collection into Postman.
 3. Set up the GitHub environment with your credentials (auth_token, username).
 4. Test the configured API endpoints or modify them as needed.
