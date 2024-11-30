@@ -26,7 +26,7 @@ cd Data-Source-API-Analyst-Test
    - **Key**: `github_password`
    - **Value**: Your GitHub password or token.
 
-2.3. Click Save the environment and activate it.
+2.3. Click Save to save the environment, then activate it.
 
 ### Test API Endpoints
 1. Open the imported Postman collection.
